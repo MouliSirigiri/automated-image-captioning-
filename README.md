@@ -1,4 +1,4 @@
-#**Automated Image Captioning Using CNN and NLP**
+**Automated Image Captioning Using CNN and NLP**
 
 #**Overview**
 
